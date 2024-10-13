@@ -1,0 +1,97 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d3a4640e-940a-492c-8815-f5eb2c86d474")
+	(paper "A4")
+	(title_block
+		(title "LeakGuard schematics - main page")
+		(company "ZPI 2024/2025")
+		(comment 1 "Łukasz Świszcz 266576")
+		(comment 2 "Szymon Jędrzejczak 266867")
+		(comment 3 "Philip Hart 266855")
+		(comment 4 "Szymon Wieczorek 266586")
+	)
+	(lib_symbols)
+	(sheet
+		(at 153.67 92.71)
+		(size 21.59 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "05395fd7-2673-4890-9a93-e1ccd00b69d4")
+		(property "Sheetname" "Sensor unit"
+			(at 153.67 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensor.kicad_sch"
+			(at 153.67 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "leakguard"
+				(path "/d3a4640e-940a-492c-8815-f5eb2c86d474"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 92.71)
+		(size 21.59 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d3b3b088-fa34-462a-a715-5d27054ec44c")
+		(property "Sheetname" "Main unit"
+			(at 129.54 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main.kicad_sch"
+			(at 129.54 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "leakguard"
+				(path "/d3a4640e-940a-492c-8815-f5eb2c86d474"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
