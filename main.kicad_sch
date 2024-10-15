@@ -8110,6 +8110,12 @@
 		(uuid "2f459b5f-39c3-43d1-b7c3-c733f0027a95")
 	)
 	(junction
+		(at 173.99 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32f81e0f-1eae-447e-aca1-42e2844ae84e")
+	)
+	(junction
 		(at 69.85 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8132,12 +8138,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3feaf404-4901-4d7d-81f3-588d8fa43ab7")
-	)
-	(junction
-		(at 172.72 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43fb0340-8fe0-475d-8349-610faaba7eaf")
 	)
 	(junction
 		(at 204.47 39.37)
@@ -8302,10 +8302,22 @@
 		(uuid "9fd6356a-4176-4de5-b09f-6ee26219c3df")
 	)
 	(junction
+		(at 58.42 264.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fd65c71-922e-496b-a1ae-097361fa51c5")
+	)
+	(junction
 		(at 110.49 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a03d06d0-f632-46ba-8b5f-671d750f1166")
+	)
+	(junction
+		(at 77.47 264.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1fa63e6-fc5a-4035-9c25-a0c22e92b296")
 	)
 	(junction
 		(at 316.23 38.1)
@@ -9393,6 +9405,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 233.68) (xy 90.17 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29fc164d-5320-469f-9c1f-02fa655525a7")
+	)
+	(wire
+		(pts
 			(xy 204.47 59.69) (xy 187.96 59.69)
 		)
 		(stroke
@@ -9460,6 +9482,16 @@
 			(type default)
 		)
 		(uuid "32221921-e54e-43d4-8b27-966789c8ad21")
+	)
+	(wire
+		(pts
+			(xy 173.99 39.37) (xy 180.34 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32481601-88d9-462d-8319-8a3428120f17")
 	)
 	(wire
 		(pts
@@ -9940,16 +9972,6 @@
 			(type default)
 		)
 		(uuid "54bad0df-4c3e-4983-84bb-d6bfa4acfd32")
-	)
-	(wire
-		(pts
-			(xy 172.72 39.37) (xy 180.34 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54e1d400-94ad-44c2-829a-35da07234b05")
 	)
 	(wire
 		(pts
@@ -10703,6 +10725,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 251.46) (xy 90.17 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8840bf5c-e4f4-4149-ade1-3b8b3fd36130")
+	)
+	(wire
+		(pts
 			(xy 143.51 39.37) (xy 154.94 39.37)
 		)
 		(stroke
@@ -11163,6 +11195,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 196.85) (xy 176.53 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adf73405-c244-4036-ae59-0e9b9a5d481a")
+	)
+	(wire
+		(pts
 			(xy 334.01 201.93) (xy 345.44 201.93)
 		)
 		(stroke
@@ -11493,7 +11535,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 264.16) (xy 64.77 264.16)
+			(xy 52.07 264.16) (xy 58.42 264.16)
 		)
 		(stroke
 			(width 0)
@@ -11630,6 +11672,16 @@
 			(type default)
 		)
 		(uuid "cedc91fb-d0c9-49fc-9ee6-13af540161ef")
+	)
+	(wire
+		(pts
+			(xy 58.42 264.16) (xy 64.77 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf617a07-f378-4ee0-98c5-70a68acd2dbd")
 	)
 	(wire
 		(pts
@@ -11883,7 +11935,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 39.37) (xy 172.72 39.37)
+			(xy 167.64 39.37) (xy 173.99 39.37)
 		)
 		(stroke
 			(width 0)
@@ -11983,7 +12035,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 264.16) (xy 52.07 266.7)
+			(xy 58.42 264.16) (xy 58.42 266.7)
 		)
 		(stroke
 			(width 0)
@@ -12173,6 +12225,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 264.16) (xy 90.17 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8464e19-351e-49db-8c42-83d68cf9e9e1")
+	)
+	(wire
+		(pts
 			(xy 39.37 233.68) (xy 39.37 243.84)
 		)
 		(stroke
@@ -12280,6 +12342,16 @@
 			(type default)
 		)
 		(uuid "ff67308c-0c32-46cb-8b03-66bbd2b284d9")
+	)
+	(wire
+		(pts
+			(xy 77.47 264.16) (xy 90.17 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffd56f1f-0854-4d66-857c-ba36799ee0cb")
 	)
 	(text "Flow Meter Driver"
 		(exclude_from_sim no)
@@ -12860,6 +12932,17 @@
 		)
 		(uuid "7f768729-0922-45a6-869a-a244add612e1")
 	)
+	(label "LED_OK"
+		(at 90.17 233.68 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "80fabd47-c391-467e-b260-dd2128fd4eaa")
+	)
 	(label "BTN_IMP"
 		(at 53.34 189.23 180)
 		(fields_autoplaced yes)
@@ -13145,6 +13228,17 @@
 			(justify left bottom)
 		)
 		(uuid "ceffafa1-5c87-43f5-ac9b-fddd0e2f7dd4")
+	)
+	(label "LED_OK"
+		(at 176.53 196.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cfcb9c7f-acd9-4e57-8761-9da0a7a6ffd5")
 	)
 	(label "ESP32_CTS"
 		(at 326.39 144.78 0)
@@ -15537,6 +15631,76 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 90.17 257.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "353bf148-bed3-4733-8487-72e2f8f2f7f1")
+		(property "Reference" "R119"
+			(at 92.71 256.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470"
+			(at 92.71 259.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 88.392 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 90.17 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad3fa65d-27db-41b0-a217-7991a3777bc6")
+		)
+		(pin "2"
+			(uuid "54f2fa1e-2b18-4997-a88d-7bee7a083943")
+		)
+		(instances
+			(project "leakguard"
+				(path "/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c"
+					(reference "R119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 52.07 257.81 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15901,7 +16065,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 60.198 105.41 0)
 			(effects
 				(font
@@ -16752,16 +16916,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 172.72 39.37 0)
+		(at 173.99 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "510bcd00-64bb-4ae3-acc9-9ded65d5261b")
 		(property "Reference" "TP102"
-			(at 175.26 34.7979 0)
+			(at 171.196 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16770,7 +16933,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 175.26 37.3379 0)
+			(at 171.958 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16779,7 +16942,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 177.8 39.37 0)
+			(at 179.07 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16788,7 +16951,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 177.8 39.37 0)
+			(at 179.07 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16797,7 +16960,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 172.72 39.37 0)
+			(at 173.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17036,7 +17199,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 36.322 107.95 0)
 			(effects
 				(font
@@ -17326,7 +17489,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 60.198 139.7 0)
 			(effects
 				(font
@@ -17580,6 +17743,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 90.17 247.65 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62dac01f-33c8-4321-9fa2-5c0cdebb53ff")
+		(property "Reference" "D110"
+			(at 93.98 247.9674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GREEN"
+			(at 93.98 250.5074 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 90.17 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 90.17 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e21019e2-f92b-4d49-a814-1df3465ba066")
+		)
+		(pin "2"
+			(uuid "b5c472af-1f4c-4b36-b821-5cf8d0ca8787")
+		)
+		(instances
+			(project "leakguard"
+				(path "/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c"
+					(reference "D110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 39.37 140.97 0)
 		(mirror y)
@@ -17598,7 +17831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 36.322 142.24 0)
 			(effects
 				(font
@@ -18715,7 +18948,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 77.47 247.65 0)
 			(effects
 				(font
@@ -20567,7 +20800,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c80b180f-8ff6-4856-b6ba-bd5a637ecedb")
 		(property "Reference" "#PWR0102"
 			(at 167.64 39.37 0)
@@ -22047,7 +22279,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 266.7 0)
+		(at 58.42 266.7 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22056,7 +22288,7 @@
 		(dnp no)
 		(uuid "e745a922-97f5-4a44-9ac5-d791d3332023")
 		(property "Reference" "#PWR0146"
-			(at 52.07 273.05 0)
+			(at 58.42 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22065,7 +22297,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 52.07 271.78 0)
+			(at 58.42 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22073,7 +22305,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 266.7 0)
+			(at 58.42 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22082,7 +22314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 266.7 0)
+			(at 58.42 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22091,7 +22323,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 266.7 0)
+			(at 58.42 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22265,7 +22497,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "680"
 			(at 80.01 259.0799 0)
 			(effects
 				(font

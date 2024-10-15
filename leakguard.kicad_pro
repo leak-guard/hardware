@@ -180,7 +180,8 @@
       "track_widths": [
         0.0,
         0.2,
-        0.6
+        0.6,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -239,10 +240,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_to_pin|1104900|596900|b4774d57-81b8-441e-9e3b-5b3eacf04d4f|717d5328-e2c6-46d6-bb95-def77f13d508|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c",
-      "pin_to_pin|1257300|596900|b4774d57-81b8-441e-9e3b-5b3eacf04d4f|717d5328-e2c6-46d6-bb95-def77f13d508|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c|/d3a4640e-940a-492c-8815-f5eb2c86d474/d3b3b088-fa34-462a-a715-5d27054ec44c"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -509,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

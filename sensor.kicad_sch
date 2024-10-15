@@ -8280,7 +8280,7 @@
 				)
 			)
 		)
-		(property "Value" "32.768kHz"
+		(property "Value" "32768Hz"
 			(at 43.18 87.884 0)
 			(effects
 				(font
@@ -8964,7 +8964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 29.972 102.87 0)
 			(effects
 				(font
@@ -10506,7 +10506,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10p"
 			(at 53.848 100.33 0)
 			(effects
 				(font
